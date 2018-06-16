@@ -1,0 +1,9 @@
+# bunder config
+
+project:
+    LLVM
+
+build:
+    path: './build'
+
+depend:
